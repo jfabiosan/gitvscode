@@ -1,2 +1,2 @@
 # gitvscode
-integrar vscode no git
+integrar vscode no github
